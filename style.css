@@ -1,0 +1,16 @@
+h1{
+    color: rgb(24, 59, 59);
+}
+
+body{
+    background-color: #816AFE;
+}
+
+li{
+    display: inline;
+    word-spacing: 50%;
+}
+
+.navbar{
+    padding-left: 20%;
+}
